@@ -7,7 +7,7 @@
 
 在这里对有道网页翻译及chrome划词插件表示感谢。
 ##列表
-* 超高清电视(Rec. ITU-R BT.2020)：电视进化史上跨时代的飞跃[标准概述]
+* [超高清电视(Rec. ITU-R BT.2020)：电视进化史上跨时代的飞跃\[标准概述\]](https://github.com/zombielive/Translation/blob/master/%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E8%A7%86(Rec.%20ITU-R%20BT.2020)%EF%BC%9A%E7%94%B5%E8%A7%86%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%8A%E8%B7%A8%E6%97%B6%E4%BB%A3%E7%9A%84%E9%A3%9E%E8%B7%83%5B%E6%A0%87%E5%87%86%E6%A6%82%E8%BF%B0%5D.md)
 
 
 
